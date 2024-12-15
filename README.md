@@ -7,7 +7,7 @@ Welcome to my portfolio website! This is a showcase of my work, skills, and proj
 - **About Me:** A brief introduction highlighting my skills in AI/ML and web development.  
 - **Skills Section:** Displays my technical expertise, including AI/ML frameworks, web development stacks, and tools.  
 - **Projects:**  
-  - **Hand Exercise Detection & Feedback System:** AI-driven tool for real-time hand rehabilitation using MediaPipe and Random Forest.  
+  - **Embroidery Management System:** A full authenticated system of embroidery business.  
   - **Emotion Detection System:** Combines face and voice recognition for emotion analysis.  
   - **Customer Churn Prediction:** Data analysis and prediction using advanced ML algorithms.  
 - **Contact Section:** Easily get in touch through email, LinkedIn, or GitHub.  
@@ -22,7 +22,7 @@ Welcome to my portfolio website! This is a showcase of my work, skills, and proj
 This portfolio reflects my passion for creating scalable, user-centric web applications and leveraging AI/ML to solve real-world problems. It's designed to give recruiters and collaborators a quick overview of my capabilities and past work.  
 
 ## How to View  
-- **Live Website:** [Have a look on live website](https://prince41773.github.io/Portfolio/)  
+- **Live Website:** [Have a look on live website](https://hinaldobaria.github.io/portfolio/)
 - **Source Code:** The complete code for this portfolio is available in this repository.  
 
 ## Contact  
